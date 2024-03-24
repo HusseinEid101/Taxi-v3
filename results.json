@@ -1,1 +1,1 @@
-{"env_id": "Taxi-v3", "mean_reward": 7.52, "n_eval_episodes": 100, "eval_datetime": "2024-03-24T01:17:44.393767"}
+{"env_id": "Taxi-v3", "mean_reward": 7.56, "n_eval_episodes": 100, "eval_datetime": "2024-03-24T01:35:20.660922"}

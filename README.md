@@ -15,7 +15,7 @@ model-index:
       type: Taxi-v3
     metrics:
     - type: mean_reward
-      value: 7.52 +/- 2.76
+      value: 7.56 +/- 2.71
       name: mean_reward
       verified: false
 ---
